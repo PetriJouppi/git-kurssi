@@ -2,3 +2,4 @@
 - tomtaattikastiketta
 - kaurakermaa
 - kaljaa
+- sauna
